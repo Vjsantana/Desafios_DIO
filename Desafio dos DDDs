@@ -13,5 +13,5 @@ class minhaClasse {
             consumoMedio =  distancia/combustivelGasto    ; //atribua a formula para que o codigo funcione corretamente
 
             Console.WriteLine("{0:0.000} km/l", consumoMedio);
-
+//Manter código dessa forma. Não alterar.
     }
